@@ -1,0 +1,22 @@
+.navbar {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  margin-bottom: 8px;
+}
+
+.btn {
+  font-size: 0.8rem;
+  padding: 4px 8px;
+  border: 1px solid #FFF;
+  border-radius: 4px;
+  text-align: center;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
+
+.btn:hover,
+.btn.active {
+  background-color: #FFF;
+  color: #000;
+}

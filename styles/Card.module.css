@@ -1,0 +1,23 @@
+.card {
+  border-radius: 8px;
+  background: #FFF;
+  flex: 1;
+  flex-basis: auto;
+  margin: auto;
+  padding: 8px 4px;
+  text-align: center;
+  box-sizing: border-box;
+}
+
+.emoji {
+  font-size: 5rem;
+}
+
+.name {
+  color: #000;
+}
+
+.code {
+  color: #666;
+  font-size: .8rem;
+}
